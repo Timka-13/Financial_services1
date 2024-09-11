@@ -147,21 +147,21 @@ body{
 
     .zamovutu{
         position: absolute;
-        top: 157%;
+        top: 162%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
 
     .contakt2{
         position: absolute;
-        top: 170%;
+        top: 175%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
 
     .strilka{
         position: absolute;
-        top: 163%;
+        top: 168%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
@@ -271,4 +271,11 @@ body{
         color: black;
         font-size: 20px;
         opacity: 1;
+    }
+
+    .a23{
+        color: black;
+        font-size: 20px;
+        opacity: 1; 
+        margin-left: 5px;
     }
